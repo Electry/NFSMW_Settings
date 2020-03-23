@@ -1,0 +1,7 @@
+build/
+.vscode/
+*.project
+*.o
+
+tests/interpreter
+tests/test_interpreter
